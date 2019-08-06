@@ -1,0 +1,11 @@
+[
+  { "id": "1", "name": "BODY" },
+  { "id": "2", "name": "SKIN" },
+  { "id": "3", "name": "FACE" },
+  { "id": "4", "name": "FOOD" },
+  { "id": "5", "name": "MASK" },
+  { "id": "6", "name": "HANDS" },
+  { "id": "7", "name": "FOOT" },
+  { "id": "8", "name": "HAIR" },
+  { "id": "9", "name": "MAKEUP" }
+]
