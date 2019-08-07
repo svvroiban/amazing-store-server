@@ -40,3 +40,5 @@ router.get("/categories/:id/products", getProductsByCategoryID);
 app.use("/", router);
 
 server.listen(5000);
+
+module.exports = app;
