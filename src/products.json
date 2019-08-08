@@ -3,7 +3,8 @@
     "id": "1",
     "name": "Missha All Around Safe Block Sebum Zero Sun",
     "description": "SKIN",
-    "price": 14.0,
+    "imgSrc": "./Img/product1.jpg",
+    "price": "$14.00",
     "categories": [2, 5, 9],
     "rating": 4.8,
     "manufacturerId": "2"
@@ -12,7 +13,8 @@
     "id": "2",
     "name": "Innisfree Green Tea Balancing Cream",
     "description": "SKIN",
-    "price": 8.0,
+    "imgSrc": "/Img/product2.png",
+    "price": "$8.00",
     "categories": [2, 8, 9],
     "rating": 4.4,
     "manufacturerId": "2"
@@ -21,7 +23,8 @@
     "id": "3",
     "name": "Claire’s Cloud 9 Blanc De Whitening Cream",
     "description": "BODY",
-    "price": 12.0,
+    "imgSrc": "./Img/product3.jpg",
+    "price": "$12.00",
     "categories": [1, 3, 7],
     "rating": 2.8
   },
@@ -29,7 +32,8 @@
     "id": "4",
     "name": "Tonymoly Pure Eco Snail Moisture Gel",
     "description": "BODY",
-    "price": 9.0,
+    "imgSrc": "./Img/product4.jpg",
+    "price": "$9.00",
     "categories": [3, 5, 8],
     "rating": 3.8
   },
@@ -37,7 +41,8 @@
     "id": "5",
     "name": "Skin79 Fresh Garden Mask-Snail",
     "description": "HANDS",
-    "price": 14.0,
+    "imgSrc": "./Img/product5.jpg",
+    "price": "$14.00",
     "categories": [1, 2, 3],
     "rating": 4.8
   },
@@ -45,7 +50,8 @@
     "id": "6",
     "name": "Cosrx Advanced Snail 92 All in One Cream",
     "description": "BODY",
-    "price": 9.0,
+    "imgSrc": "./Img/product6.jpg",
+    "price": "$9.00",
     "categories": [5, 7, 8],
     "rating": 3.8
   },
@@ -53,7 +59,8 @@
     "id": "7",
     "name": "Innisfree Canola Honey Mask",
     "description": "BODY",
-    "price": 9.0,
+    "imgSrc": "./Img/product7.jpg",
+    "price": "$9.00",
     "categories": [4, 1, 8],
     "rating": 3.8
   },
@@ -61,7 +68,8 @@
     "id": "7",
     "name": "Scinic Honey Banana Cleansing Foam",
     "description": "BODY",
-    "price": 9.0,
+    "imgSrc": "./Img/product8.jpg",
+    "price": "$24.00",
     "categories": [2, 5, 6],
     "rating": 3.8
   }

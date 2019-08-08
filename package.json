@@ -18,6 +18,7 @@
   "homepage": "https://github.com/svvroiban/amazing-store-server#readme",
   "dependencies": {
     "chai": "^4.2.0",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "joi": "^14.3.1",
     "mocha": "^6.2.0",

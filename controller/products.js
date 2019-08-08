@@ -5,14 +5,14 @@ const getProductByID = (req, res) => {
     return product.id === req.params.id;
   });
   if (product.length > 0) {
-    res.status(200).json(product);
+    res.status(200).json({ data: product });
   } else {
     res.status(200).json("You introduced an invalid ID");
   }
 };
 
 const getAllProducts = (req, res) => {
-  res.status(200).json(products);
+  res.status(200).json({ data: products });
 };
 
 module.exports = { getProductByID, getAllProducts };
